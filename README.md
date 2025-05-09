@@ -19,6 +19,7 @@ The Calories Advisor App helps users analyze the nutritional content of their fo
 
 
 ⚙️ How It Works
+
 ->The user uploads a food image (in JPG, PNG, or JPEG format).
 
 ->The app sends the image to the Gemini 1.5 Flash model for analysis.
